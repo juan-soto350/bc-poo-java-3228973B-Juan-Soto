@@ -1,4 +1,4 @@
-###Aqui esta todo el contenido pedido de las semanas de JAVA con la Programacion Orientada a Objetos (POO)
+Aqui esta todo el contenido pedido de las semanas de JAVA con la Programacion Orientada a Objetos (POO)
 --
 
 lo unico es que tuve bueno tengo un error para la semana-09 y 
